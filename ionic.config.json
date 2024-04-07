@@ -1,0 +1,7 @@
+{
+  "name": "downloadTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
